@@ -32,7 +32,8 @@ ________________________________________________________________________________
 Here is Task 4 of my virtual internship with **LetsGrowMore** as a Web Developer Intern .
 
 This calculator allows users to perform basic arithmetic calculations and provides a user-friendly interface. I have used html , css and js  in creation of this simple calulator.
+![Third](https://github.com/Ashok-713/-LGMVIP-Web-All-Tasks/assets/102814093/0a91f60b-dd61-48ca-9ebf-3d1b7439505a)
 
-![Second](https://github.com/Ashok-713/-LGMVIP-Web-All-Tasks/assets/102814093/2769df47-283e-43e8-a397-ab3f78031bf2)
+
 
 ____________________________________________________________________________________________________________________________________________________________________
